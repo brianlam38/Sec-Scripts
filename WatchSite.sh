@@ -4,6 +4,11 @@
 #
 # Repeatedly download a specified webpage and check if it has been updated
 # with a specific regex. If regex matches, send email notification to X address.
+#
+# Use cases:
+# -> Check for certain web vulns on a webpage
+# -> Modify script to use a file with multiple lines of regex (improved search)
+# -> If web vuln present, modify script to probe the vuln on webpage + return result
 
 # check every hour
 check=3600
