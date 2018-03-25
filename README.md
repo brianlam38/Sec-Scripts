@@ -1,6 +1,10 @@
 # SecScripts
 A dump of my security related scripts for general use
 
+== NOTE ==
+Pls dont use these scripts illegally. I have created them only for research/educational purposes.
+Always make sure a service has given you explicit approval to perform testing on their assets.
+
 ### acct_bruteforce.py
 Brute force account logins
 
