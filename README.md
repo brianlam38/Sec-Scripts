@@ -1,5 +1,5 @@
 # SecScripts
-A dump of my security related scripts for general use
+A dump of my security related scripts/files for general use.
 
 == NOTE ==
 
@@ -11,3 +11,6 @@ Brute force account logins
 
 ### dumprequest.py
 Dump full HTTP request to file (method, HTTP headers and body).
+
+### xxe.xml
+Sample RSS-Feed XML document. For exploiting XXE vulnerabilities.
